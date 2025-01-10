@@ -85,7 +85,7 @@ The system is built on a **3-Tier Architecture**:
    ```bash
    ./gradlew build
    ```
-
+ 
 5. Run the application:
    ```bash
    java -jar target/online-voting-system.jar
@@ -98,7 +98,15 @@ The system is built on a **3-Tier Architecture**:
 - **Enhanced Voting Experience:** Secure and accessible voting for users.
 - **Efficient Management:** Simplified administration of elections and results.
 - **Transparency and Trust:** Provides a transparent process with detailed audit logs.
+-
+- <img width="1440" alt="Screenshot 2025-01-10 at 7 19 44 PM" src="https://github.com/user-attachments/assets/e6e8a22c-b122-45d7-a5f2-c50bc7367432" />
+<img width="1440" alt="Screenshot 2025-01-10 at 7 19 48 PM" src="https://github.com/user-attachments/assets/5a8958bd-241e-4ba5-add8-fac5d8d3068d" />
+<img width="1440" alt="Screenshot 2025-01-10 at 7 20 40 PM" src="https://github.com/user-attachments/assets/3c84f62d-b6c2-4543-a1d6-25ce56fcf151" />
+<img width="1440" alt="Screenshot 2025-01-10 at 7 21 09 PM" src="https://github.com/user-attachments/assets/9a08b83b-83f1-442b-bebc-3918e42804a8" />
 
----
-Feel free to contribute to this project by submitting issues or pull requests on GitHub!
+
+
+
+
+
 
