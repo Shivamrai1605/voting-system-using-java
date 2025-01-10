@@ -67,9 +67,9 @@ The system is built on a **3-Tier Architecture**:
 - Git
 
 ### Steps
-1. Clone the repository: https://github.com/Shivamrai1605/voting-system-using-java
+1. Clone the repository:
    
-3. Navigate to the project directory:
+3. Navigate to the project directory:https://github.com/Shivamrai1605/voting-system-using-java
    ```bash
    
    ```
