@@ -67,17 +67,17 @@ The system is built on a **3-Tier Architecture**:
 - Git
 
 ### Steps
-1. Clone the repository:
+1. Clone the repository: https://github.com/Shivamrai1605/voting-system-using-java
    
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    ```bash
    
    ```
-3. Configure the database:
+4. Configure the database:
    - Create a MySQL database (e.g., `online_voting`).
    - Update the `application.properties` or `application.yml` file with database credentials.
 
-4. Build the project:
+5. Build the project:
    ```bash
    ./mvnw clean install
    ```
@@ -86,12 +86,12 @@ The system is built on a **3-Tier Architecture**:
    ./gradlew build
    ```
  
-5. Run the application:
+6. Run the application:
    ```bash
    java -jar target/online-voting-system.jar
    ```
 
-6. Access the application:
+7. Access the application:
    - Open your browser and navigate to `http://localhost:8080`.
 
 ## Outcome
